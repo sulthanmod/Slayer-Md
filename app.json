@@ -1,8 +1,8 @@
 {
-  "name": "Slayer-Md",
+  "name": "Paathu-Md",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/TURBOHYPER/Slayer-Md",
-  "logo": "https://telegra.ph/file/866c11205f88ca37d26f5.jpg",
+  "repository": "https://github.com/sulthanmod/Slayer-Md",
+  "logo": "https://telegra.ph/file/65a1f3cbaa04375642e64.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
