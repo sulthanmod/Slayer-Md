@@ -1,7 +1,7 @@
 {
-  "name": "Slayer-Md",
+  "name": "PAATHU MD",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by Turbo.",
+  "description": "Multi device wa bot created by sulthan.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TURBOHYPER",
+  "author": "paathu md",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
